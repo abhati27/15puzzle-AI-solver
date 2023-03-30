@@ -33,8 +33,11 @@ Here's a sample input and output for the program:
 Output:
 
 Optimal solution found!
+
 Sequence of moves: RDLDRRULDLURRDLURDLURRDLUR
+
 Number of moves: 29
+
 Time taken: 0.32 seconds
 
 This means that the optimal solution for the given configuration requires 29 moves and the program found the solution in 0.32 seconds. The sequence of moves is provided using letters: 'R' for right, 'L' for left, 'U' for up, and 'D' for down.
