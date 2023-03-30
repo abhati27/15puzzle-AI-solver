@@ -8,12 +8,14 @@ C++ compiler with support for C++11 (e.g., g++)
 To compile the program, open your terminal and navigate to the project folder. Then, run the following command:
 
 g++ -std=c++11 search.cpp -o solver
+
 This will create an executable named solver in the project folder.
 
 ## Usage
 To run the program with a specific puzzle configuration, use the following command in your terminal:
 
 ./solver 1 2 0 4 6 7 3 8 5 9 10 12 13 14 11 15
+
 Replace the numbers with your desired puzzle configuration, where 0 represents the empty tile. Make sure to provide exactly 16 numbers, as the puzzle is a 4x4 grid. The program will then output the optimal sequence of moves to solve the puzzle, as well as the number of moves and the time taken.
 
 ## Heuristics
