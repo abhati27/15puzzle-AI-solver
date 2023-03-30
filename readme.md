@@ -1,5 +1,6 @@
 # 15 Puzzle Solver using IDA* Algorithm
 This project implements the IDA* (Iterative Deepening A*) search algorithm to solve the popular 15 Puzzle game, also known as the sliding tile puzzle. The program is written in C++ and uses two different heuristics: Manhattan distance and misplaced tiles. The optimal solution provided by the program includes the sequence of moves required to reach the goal state.
+![15puzz](https://user-images.githubusercontent.com/60200047/228952211-e79dcef3-2191-4420-91ac-36a2f9e592cf.png)
 
 ## Requirements
 C++ compiler with support for C++11 (e.g., g++)
